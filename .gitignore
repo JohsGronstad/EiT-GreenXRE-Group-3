@@ -1,0 +1,22 @@
+# User-specific files
+.user
+.userprefs
+.idea
+.vscode
+# Windows image file caches
+Thumbs.db
+# Windows Installer files
+.cab
+# Windows Installer files
+.vs
+# Build folders
+/Build/
+/build/
+/Library/
+/Temp/
+/Obj/
+/Logs/
+.vs2019/
+# User-specific files
+.vscode/
+.idea/
