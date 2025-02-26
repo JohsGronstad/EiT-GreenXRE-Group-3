@@ -5,4 +5,3 @@
 3. In Unity Hub, Navigate to Projects tab an click "Add" in the top right corner.
 4. Select "Add project from disk" and select the destination of the cloned repository
 5. Open the project with Editor Version 2022.3.45f1. (Install this version if needed)
-6. Try to open a scene by navigating to Asset/group3/Scenes/scene1 inside the unity editor
